@@ -7,19 +7,19 @@ Kit d'animation de coding dojo avec Minecraft / Javascript en Test Driven Develo
 # Préambule : c'est quoi un coding dojo
 Le coding dojo a pour objectif de réunir des développeurs hors contexte projet, dans la joie et la bonne humeur, afin de résoudre un problème algorithmique dans un temps impartie.
 Chaque personne présente s'engage à respecter les Beck Design Rules (http://martinfowler.com/bliki/BeckDesignRules.html en référence à Kent Beck) par ordre de priorité :
-1 - Passer les tests (ça implique que le code code est couvert pas des tests unitiares)
-2 - Le code est lisible et facilement compréhensible
-3 - Pas de duplication de code
-4 - Le stricte minimum nécessaire d'élèments (classes, méthodes, etc...)
+* Passer les tests (ça implique que le code code est couvert pas des tests unitiares)
+* Le code est lisible et facilement compréhensible
+* Pas de duplication de code
+* Le stricte minimum nécessaire d'élèments (classes, méthodes, etc...)
 
 
-# Références sujets :
+# Références du sujet :
 - Minecraft (le jeu) : https://fr.wikipedia.org/wiki/Minecraft
 - canarymod (le serveur) : https://github.com/CanaryModTeam/CanaryMod
 - ScriptCraft (le plugin du serveur) : https://github.com/walterhiggins/ScriptCraft
 - Javascript (le langage) : https://fr.wikipedia.org/wiki/JavaScript
 
-# Références méthodes :
+# Références des méthodes :
 - TDD : https://fr.wikipedia.org/wiki/Test_driven_development
 - Pair Programming : https://fr.wikipedia.org/wiki/Programmation_en_bin%C3%B4me
 - Pour aller plus loin : https://fr.wikipedia.org/wiki/Extreme_programming
