@@ -35,15 +35,15 @@ Chaque personne présente s'engage à respecter les Beck Design Rules (http://ma
 - Télécharger le JAR de CanaryMod disponible et le placer dans le répertoire de votre choix (attention, à la première exécution il va placer à la racine du répertoire ou se trouve le JAR un ensemble de fichiers répertoire nécessaires à son fonctionnement)
 - Télécharger le JAR de Scriptcraft
 - Lancer un terminal de commande et se déplacer dans le répertoire ou se trouve vote JAR CanaryMod puis éxecuter le JAR :
-/shell java -jar CanaryMod-1.8.0-1.2.1-SNAPSHOT-shaded.jar
-- Normalement, le lancement doit créer un tas de répertoire et de fichiers dans le répertoire racine ou se trouve le JAR de CanaryMod. Editer le fichier eula.txt :
+      java -jar CanaryMod-1.8.0-1.2.1-SNAPSHOT-shaded.jar
+- Normalement, le lancement doit créer un tas de répertoire et de fichiers dans le répertoire racine ou se trouve le JAR de CanaryMod. Editer le fichier eula.txt :&hellip;
 
-  | eula.txt :
-  |   eula=true
+    eula.txt:
+      eula=true
 
 - Copier scriptcraft.jar dans le répertoire CanaryMod/plugins
 - Lancer à nouveau dans le terminal de commande le JAR CanaryMod :
-/shell java -jar CanaryMod-1.8.0-1.2.1-SNAPSHOT-shaded.jar
+      java -jar CanaryMod-1.8.0-1.2.1-SNAPSHOT-shaded.jar
 
 Félicitation, votre serveur est installé !
 
@@ -53,5 +53,5 @@ Félicitation, votre serveur est installé !
 - Saisir l'adresse du serveur dans le champ éponyme. Si vous le lancez en local, vous pouvez saisir localhost
 - Rejoignez le serveur
 - Une fois dans le jeu, ouvrir la console (par défaut touche T), et saisir :
-/shell /js 1+2
+      /js 1+2
 - Si l'interface vous répond 3, c'est que tout est OK
