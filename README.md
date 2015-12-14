@@ -18,6 +18,7 @@ Chaque personne présente s'engage à respecter les Beck Design Rules (http://ma
 - canarymod (le serveur) : https://github.com/CanaryModTeam/CanaryMod
 - ScriptCraft (le plugin du serveur) : https://github.com/walterhiggins/ScriptCraft
 - Javascript (le langage) : https://fr.wikipedia.org/wiki/JavaScript
+- Drone (le drone constructeur dans Minecraft avec ScriptCraft) : https://youtu.be/G523yLqZtZA
 
 # Références des méthodes
 - TDD : https://fr.wikipedia.org/wiki/Test_driven_development
