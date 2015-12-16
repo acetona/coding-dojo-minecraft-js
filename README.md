@@ -75,9 +75,13 @@ Le TDD est un des piliers de l'extreme programming, il vise non seulement à fai
 Le déroulement schématique est le suivant :
 
 1 - écriture du test
+
 2 - vérification que le test ne passe pas (rouge)
+
 3 - écriture du code répondant de façon minimale au test
+
 4 - vérification que le test passe (vert) + que les précédents n'ont pas été dégradés
+
 5 - nettoyage et refactorisation du code avant de repasser à la phase 1
 
 # Pair Programming
@@ -85,4 +89,5 @@ Autre élément majeur de l'extreme programming, le pair programming ou programm
 - tourner au bout d'une timebox définie
 - le premier rédige les tests, l'autre répond aux tests (cf. TDD)
 etc..
+
 Le dialogue doit toutefois rester intense dans la fréquence d'échange orale. A défaut, ce n'est plus du pair programming mais un développeur et son assistant :)
