@@ -12,7 +12,6 @@ Chaque personne présente s'engage à respecter les Beck Design Rules (http://ma
 * Pas de duplication de code
 * Le stricte minimum nécessaire d'élèments (classes, méthodes, etc...)
 
-
 # Références du sujet
 - Minecraft (le jeu) : https://fr.wikipedia.org/wiki/Minecraft
 - canarymod (le serveur) : https://github.com/CanaryModTeam/CanaryMod
@@ -30,7 +29,6 @@ Chaque personne présente s'engage à respecter les Beck Design Rules (http://ma
 - Minecraft 1.8.8 ou supérieur
 
 # Installation
-
 - Se rendre sur http://scriptcraftjs.org/download/latest/
 - Télécharger le JAR de CanaryMod disponible et le placer dans le répertoire de votre choix (attention, à la première exécution il va placer à la racine du répertoire ou se trouve le JAR un ensemble de fichiers répertoire nécessaires à son fonctionnement)
 - Télécharger le JAR de Scriptcraft
