@@ -52,7 +52,7 @@ function mur(caracteres) {
  *       le chaine de caracteres passee en entree.
  *
  */
-function caracteresVersAscii(caracteres) {
+exports.caracteresVersAscii = function(caracteres) {
   // Initialisation du tableau contenant l'alphabet en ASCII
   var alphabet = new Array(5);
   alphabet[4] = " #  ##   ## ##  ### ###  ## # # ###  ## # # #   # # ###  #  ##   #  ##   ## ### # # # # # # # # # # ### ";
