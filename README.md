@@ -43,6 +43,7 @@ Chaque personne présente s'engage à respecter les Beck Design Rules (http://ma
       eula=true
 
 - Copier scriptcraft.jar dans le répertoire CanaryMod/plugins
+- Pensez a éditer votre fichier de configuration serveur comme indiqué ici : https://github.com/walterhiggins/ScriptCraft/blob/e3079047a1f97603c6f0ce5f6893e1ed17735825/docs/YoungPersonsGuideToProgrammingMinecraft.md#configuring-your-server-optional
 - Lancer à nouveau dans le terminal de commande le JAR CanaryMod :
       java -jar CanaryMod-1.8.0-1.2.1-SNAPSHOT-shaded.jar
 
