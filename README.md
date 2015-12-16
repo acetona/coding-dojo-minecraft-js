@@ -91,3 +91,7 @@ Autre élément majeur de l'extreme programming, le pair programming ou programm
 etc..
 
 Le dialogue doit toutefois rester intense dans la fréquence d'échange orale. A défaut, ce n'est plus du pair programming mais un développeur et son assistant :)
+
+# Un petit Prezi ? Pas de problème
+
+Un Prezi est dispo par là : http://prezi.com/t5yohld58eth/?utm_campaign=share&utm_medium=copy&rc=ex0share 
