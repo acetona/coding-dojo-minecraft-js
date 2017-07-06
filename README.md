@@ -22,12 +22,12 @@ Chaque personne présente s'engage à respecter les Beck Design Rules (http://ma
 # Références des méthodes
 - TDD : https://fr.wikipedia.org/wiki/Test_driven_development
 - Pair Programming : https://fr.wikipedia.org/wiki/Programmation_en_bin%C3%B4me
+- Clean Code : http://www.planetgeek.ch/wp-content/uploads/2014/11/Clean-Code-V2.4.pdf
 - Pour aller plus loin : https://fr.wikipedia.org/wiki/Extreme_programming
 
-
 # Prérequis
-- Java JDK 6.x ou supérieur
-- Minecraft 1.8.8 ou supérieur
+- Java JDK 8.x ou supérieur
+- Minecraft 1.12 ou supérieur
 
 # Installation
 - Se rendre sur http://scriptcraftjs.org/download/latest/
